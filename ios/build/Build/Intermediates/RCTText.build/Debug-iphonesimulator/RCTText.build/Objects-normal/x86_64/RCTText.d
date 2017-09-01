@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/SubMadao/git4Madao/ReactNativeLearn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
