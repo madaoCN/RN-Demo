@@ -2,9 +2,9 @@
 a simple React Native Demo
 
 # main.js 
-![](https://github.com/madaoCN/RN-Demo/blob/master/screenshot1.png)
+![图1](https://github.com/madaoCN/RN-Demo/blob/master/screenshot1.png)
 # main2.js 
-![](https://github.com/madaoCN/RN-Demo/blob/master/screenshot2.png)
+![图2](https://github.com/madaoCN/RN-Demo/blob/master/screenshot2.png)
 # main3.js 
-![](https://github.com/madaoCN/RN-Demo/blob/master/screenshot3.png)
+![图3](https://github.com/madaoCN/RN-Demo/blob/master/screenshot3.png)
 
